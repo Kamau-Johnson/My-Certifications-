@@ -1,10 +1,10 @@
 # My Certifications
 
-This repository contains all my certifications, stored here for safe keeping virtually.
+This repository contains all my certifications in my Data Science and Machine learning self taught journey, stored here for safe keeping virtually.
 
 <p float="left">
   <img src="cert1.png" width="30%" />
-  <img src="cert2.png" width="30%" />
+  <img src="Diploma in using Python for Data Science.png" width="30%" />
   <img src="cert3.png" width="30%" />
 </p>
 
