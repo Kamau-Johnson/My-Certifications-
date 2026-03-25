@@ -5,7 +5,7 @@ This repository contains all my certifications in my Data Science and Machine le
 <p float="left">
   <img src="Worldquant image.png" width="30%" />
   <img src="Diploma in using Python for Data Science.png" width="30%" />
-  <img src="Certificate in Data Science.png" width="30%" />
+  <img src="Certificate in data science.png" width="30%" />
 </p>
 
 ### Purpose
