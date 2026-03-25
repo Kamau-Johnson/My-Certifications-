@@ -3,7 +3,7 @@
 This repository contains all my certifications in my Data Science and Machine learning self taught journey, stored here for safe keeping virtually.
 
 <p float="left">
-  <img src="cert1.png" width="30%" />
+  <img src="Worldquant image.png" width="30%" />
   <img src="Diploma in using Python for Data Science.png" width="30%" />
   <img src="Certificate in Data Science.png" width="30%" />
 </p>
